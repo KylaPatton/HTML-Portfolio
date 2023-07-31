@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Kyla Patton - Contact Me</title>
+</head>
+<body>
+    <h1>Contact me</h1>
+    <p>Phone: 587-999-1518<p>
+    <p>Email: Kyla.s.patton@gmail.com</p>
+    <p>Address:
+        40 Coal Creek rd. 
+        <br/> Fernie, BC. V0B 1M2
+    </p>
+</body>
+</html>
+<footer> Kyla Patton (C) All Rights Reserved</footer>

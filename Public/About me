@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <title>Kyla Patton - About me</title>
+</head>
+    <body>
+        <h1>About me</h1>
+        <hr />
+        <p>My name is Kyla Patton, I am a Registered Nurse living in Fernie, BC. I love being creative and enjoy photography in my spare time. I also have always enjoyed using technology and learning what I can use it for and how I can make it work to my advantage. I have decided to pursue education and experience in the web development and graphic design areas. I intend to use this portfolio as a place to display what I learn along the way. </p>
+        <img src="../Assets/Images/Photo1.jpg" Height="150"><img src="../Assets/Images/Photo3.jpg" height="150">
+        <img src="../Assets/Images/Photo2.jpg" height="150"><img src="../Assets/Images/Photo4.jpg" height="150">
+
+    </body>
+</html>
+<footer> Kyla Patton (C) All Rights Reserved</footer>
